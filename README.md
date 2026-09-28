@@ -16,15 +16,39 @@
 
 ## Sobre mí
 
-Desarrollo aplicaciones web con **Laravel**, **Angular** y **PHP**. Me interesa construir sistemas completos, del modelado de la base de datos hasta la interfaz, y estoy armando mis propios proyectos para mostrarlos en mi portfolio.
+Desarrollo aplicaciones web de punta a punta, del modelado de la base de datos hasta la interfaz. Estoy armando mis propios proyectos para mostrarlos en mi portfolio.
 
-## Stack
+## Educación
 
-<div align="center">
+**Universidad Tecnológica Nacional (UTN)** · 2024 – Presente
 
-<img src="https://skillicons.dev/icons?i=php,laravel,angular,typescript,js,html,css,mysql,git,github,jira,vscode&theme=dark&perline=12" alt="Tecnologías" />
+## Tecnologías
 
-</div>
+<table>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,py,cpp,php,html&theme=dark" alt="Lenguajes" align="absmiddle" />
+      <img src="https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&labelColor=1e1b4b" alt="SQL" align="absmiddle" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,react,nextjs,angular,ts&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,laravel,prisma&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Bases de datos" /></td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Herramientas" /></td>
+  </tr>
+</table>
 
 ## Contribuciones
 
