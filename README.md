@@ -1,50 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Nico%20Russo&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descSize=16&descAlignY=58&descColor=8b949e" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:2563eb&height=230&section=header&text=Nico%20Russo&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Desarrollador%20Web%20Full%20Stack&descSize=20&descAlignY=64&descColor=e0e7ff" width="100%" alt="Nico Russo" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Laravel+%C2%B7+Angular+%C2%B7+PHP;Construyendo+proyectos+propios;Futuro+freelancer;Siempre+aprendiendo" alt="typing" />
-</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/nicorusso1411/"><img src="https://img.shields.io/badge/LinkedIn-Nico%20Russo-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn" /></a>
+<a href="mailto:nicorusso1411@gmail.com"><img src="https://img.shields.io/badge/Email-nicorusso1411%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email" /></a>
+<a href="https://github.com/NicoRusso1"><img src="https://img.shields.io/badge/GitHub-NicoRusso1-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub" /></a>
 
 </div>
 
----
+<br/>
 
-### Sobre mí
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:2563eb&height=2&section=header" width="100%" alt="" />
 
-Estudiante próximo a recibirme, enfocado en desarrollo web con Laravel y Angular. Estoy armando proyectos personales para mi portfolio y trabajar como freelancer.
+## Sobre mí
 
-### Stack
+Desarrollo aplicaciones web con **Laravel**, **Angular** y **PHP**. Me interesa construir sistemas completos, del modelado de la base de datos hasta la interfaz, y estoy armando mis propios proyectos para mostrarlos en mi portfolio.
+
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,angular,typescript,js,html,css,mysql,git,github,jira,vscode&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,angular,typescript,js,html,css,mysql,git,github,jira,vscode&theme=dark&perline=12" alt="Tecnologías" />
 
 </div>
 
-### Estadísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NicoRusso1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoRusso1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="langs" />
-
-</div>
-
-### Contribuciones
+## Contribuciones
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake.svg" />
-<img alt="snake" src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=110&section=footer" width="100%" alt="" />
