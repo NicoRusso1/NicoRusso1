@@ -9,17 +9,23 @@
 <a href="https://discord.com/users/408075099749613568"><img src="https://img.shields.io/badge/Discord-Contactame-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1b4b" alt="Discord" /></a>
 <a href="https://github.com/NicoRusso1"><img src="https://img.shields.io/badge/GitHub-NicoRusso1-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub" /></a>
 
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/divider.svg" width="100%" alt="" />
+
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:2563eb&height=2&section=header" width="100%" alt="" />
 
 ## Sobre mí
 
 **ES** · Desarrollador full stack enfocado en aplicaciones web modernas, con especial interés en la autenticación y la seguridad. Mis próximos proyectos los estoy construyendo con Laravel y Angular.
 
 **EN** · Full stack developer focused on modern web applications, with a special interest in authentication and security. I'm building my next projects with Laravel and Angular.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/code.svg" width="640" alt="nico.ts" />
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Educación
 
@@ -52,6 +58,24 @@
     <td><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Herramientas" /></td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/orbit.svg" width="700" alt="Stack en órbita" />
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## Terminal
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/terminal.svg" width="680" alt="Terminal animada" />
+
+<img src="https://raw.githubusercontent.com/NicoRusso1/NicoRusso1/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Contribuciones
 
